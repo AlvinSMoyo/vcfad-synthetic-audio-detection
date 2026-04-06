@@ -1,0 +1,16 @@
+torch
+torchaudio
+transformers
+datasets
+librosa
+soundfile
+speechbrain
+jiwer
+tqdm
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+tensorflow
